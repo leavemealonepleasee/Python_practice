@@ -1,3 +1,3 @@
-hello = "Hello World"
-print(hello)
+bye = "Good bye cruel World"
+print(bye)
 
